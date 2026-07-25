@@ -13,8 +13,7 @@ Master's graduate in **Electrical and Computer Engineering** from Instituto Supe
 *   **Programming Languages:** Python, C, Java, SQL, MATLAB
 *   **Machine Learning & DL:** PyTorch, Keras, TensorFlow
 *   **Tools & Infrastructure:** Docker, Git, Jupyter, Visual Studio Code
-*   **Core Competencies:** Machine Learning, Deep Learning, Computer Vision, Big Data, Vision Transformers
-
+*   **Core Competencies:** Machine Learning, Deep Learning, Computer Vision, Big Data
 ---
 
 ### 🔬 Academic Research & Publications
