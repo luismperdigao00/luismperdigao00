@@ -27,11 +27,9 @@ Master's graduate in **Electrical and Computer Engineering** from Instituto Supe
     *MSc Thesis — Grade: 18/20*
 
 ---
-
 ### 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinhoDarroz&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=1F4E79" alt="Luís's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhoDarroz&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=1F4E79" alt="Top Languages" width="48%" />
-</p>pi/top-langs/?username=DinhoDarroz&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
